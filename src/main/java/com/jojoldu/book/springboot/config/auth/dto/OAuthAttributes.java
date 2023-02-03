@@ -7,6 +7,7 @@ import lombok.Getter;
 
 import java.util.Map;
 
+@SuppressWarnings("uncheked")
 @Getter
 public class OAuthAttributes{
 
